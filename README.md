@@ -32,8 +32,7 @@ Shruti Balasa
 
 Full-Stack Web Developer and Tech Educator
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/shruti-balasa?u=104).
-
+Check out my other courses on 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
