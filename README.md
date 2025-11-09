@@ -1,7 +1,6 @@
 # Tailwind CSS 4 Essential Training
 This is the repository for the LinkedIn Learning course `Tailwind CSS 4 Essential Training`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![lil-thumbnail-url]
 
 ## Course Description
 
